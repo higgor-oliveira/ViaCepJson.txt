@@ -1,1 +1,16 @@
 # ViaCepJson.txt
+
+
+{
+
+"cep": "01001-000",
+"logradouro": "Praca da Se",
+"complemento": "lado impar",
+"bairro": "Se",
+"localidade": "Sao Paulo",
+"uf": "SP",
+"unidade": "",
+"ibge": "3550308",
+"gia": "1004"
+
+}
